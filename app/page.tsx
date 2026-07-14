@@ -6,7 +6,7 @@ export default function Home() {
           <h1 className="text-4xl font-bold text-neutral-900">
             Welcome to SaaSKit
           </h1>
-          <p className="mt-4 text-neutral-700">
+          <p className="mt-4 text-neutral-600">
             A clean, production-ready Next.js foundation using the App Router,
             TypeScript and Tailwind CSS. Use this as the starting point for your
             SaaS application.
