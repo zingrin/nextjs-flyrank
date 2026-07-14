@@ -79,4 +79,4 @@ If you'd like, next steps can include:
 - Adding authentication (NextAuth.js)
 - Adding example API routes and tests
 - Connecting to a database and creating real health checks
-- Setting up CI for lint/build
+- Setting up CI for lint/build.
